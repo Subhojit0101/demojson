@@ -1,5 +1,5 @@
 {
-    "products": [
+   
         
         {
             "id": 1,
@@ -89,5 +89,5 @@
             "color": "#33505a",
             "image": "https://m.media-amazon.com/images/I/71EyTcGszpL._SX679_.jpg"
         }
-    ]
+    
 }
